@@ -3,6 +3,8 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:id="@+id/set_background"
+    android:onClick="onClick"
     android:layout_margin="15dp">
 
     <TextView

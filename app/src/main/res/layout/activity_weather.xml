@@ -46,7 +46,6 @@
 
     </ScrollView>
     </android.support.v4.widget.SwipeRefreshLayout>
-
         <fragment
             android:id="@+id/choose_area_fragment"
             android:name="com.tzweather.android.ChooseAreaFragment"
